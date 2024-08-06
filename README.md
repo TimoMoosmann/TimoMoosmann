@@ -8,7 +8,6 @@ I am a passionate Developer who likes to build nice sustainable software.
 
 I love to learn new things. Right now I am learning:
 - Spring (Boot)
-- Kubernetes
 
 Contact me at timo-moosmann@web.de
 
