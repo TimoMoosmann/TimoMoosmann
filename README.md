@@ -1,13 +1,8 @@
 # About me
 
-I am a passionate Developer who likes to build nice sustainable software.
+I work as a Software Engineer since 2022. Coding is fun, and I also enjoy the planning and testing of features.
+My favarite area is backend development. Tools that I like are for example PHP/Laravel, Java, TypeScript and Kafka
 
-- I specialize in developing back-end systems
-- Previously developed Backend stuff at [Workwise](https://www.workwise.io)
-- I like to use a variety of languages and tools. Including: PHP/Laravel, Java, JavaScript/Node, TypeScript, Go, and Python
-
-I love to learn new things. Right now I am learning:
-- Spring (Boot)
+Currently I learn Go.
 
 Contact me at timo-moosmann@web.de
-
